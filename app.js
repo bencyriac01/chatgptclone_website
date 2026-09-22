@@ -1,7 +1,7 @@
 // ══════════════════════════════════════════════════════════════════════════════
 // 🔑 YOUR OPENAI API KEY
 // ══════════════════════════════════════════════════════════════════════════════
-const OPENAI_API_KEY = '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'; // ← replace with your key (or set in .env and load via server)
+const OPENAI_API_KEY = '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'; // ← replace with your key (or set in .env and load via server)
 
 // ══════════════════════════════════════════════════════════════════════════════
 // 💡 SUGGESTION CARDS  — edit freely
